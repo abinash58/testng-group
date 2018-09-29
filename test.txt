@@ -1,19 +1,17 @@
-the test file
+the test file and unicorn branch
 1
 2
 3
 4
 1st commit
-
 2nd changes 
-
-added 
-
-a vb nb mcmc
+unicorn branches
 
 3rd changes
 abinash
 
 3rd time commit.
+
+and unicorn
 
 
