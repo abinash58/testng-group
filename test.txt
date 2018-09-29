@@ -3,3 +3,12 @@ the test file
 2
 3
 4
+1st commit
+
+2nd changes 
+
+added 
+
+a vb nb mcmc
+
+
